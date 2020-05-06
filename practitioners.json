@@ -21,5 +21,13 @@
       "favoriteFood": "Pizza",
       "lifeGoal": "Maximize profit, minimize effort"
     }
+  },
+  {
+    "name": "Joseph Sawaya",
+    "properties": {
+      "city": "Toronto",
+      "favoriteFood": "Hamburger",
+      "lifeGoal": "fix bugs without creating more of them"
+    }
   }
 ]
